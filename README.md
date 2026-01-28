@@ -1,7 +1,7 @@
 # sos_healthcheck
 1. Dowload the script
 2. Give execute permission
-3. Go insise the soreport directory cd sosreport
+3. Go insise the sosreport directory: cd sosreport
 4. ./sos_healthcheck.py 
 
 Example:
